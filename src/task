@@ -1,0 +1,7 @@
+1: create a string. And take that string as input from the user.
+2: create another string with the data of the above string.
+3: append the 2nd string to the first string and store in third string.
+4: create a function that takes string, i, j as input and returns substring of the given string from index i to index j
+5: create function that takes string and i and returns substring of string from index i to the end
+6: create a function to take str1 and str2 and returns first occurence of str2 in str1. If not found return -1
+7: create a function to string and char as input and print the string after deleting all the occurences of given char.
