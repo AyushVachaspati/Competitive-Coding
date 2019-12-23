@@ -1,0 +1,152 @@
+The starting point for any UBI must be the status quo. How are existing programs faring in helping the poorest?     
+The first striking fact is the sheer
+number of schemes and programs run by
+the government. The Budget for 2016-17
+indicates that there are about 950 central
+sector and centrally sponsored sub-schemes
+in India accounting for about 5 percent
+of the GDP by budget allocation
+Even leaving aside their effectiveness,
+considerable gains could be achieved in terms
+of bureaucratic costs and time by replacing
+many of these schemes with a UBI.
+districts
+Consider the evidence on misallocation
+of the government’s resources. Misallocation
+captures the fact that the poorest areas of
+the country often obtain a lower share of
+government resources when compared to
+their richer counterparts.
+One major explanation for
+misallocation is state capacity – resources
+allocated to districts are often a function of
+the district’s ability to spend them; richer
+districts have better administrative capacities
+to effectively implement schemes.
+If a state or
+a district with more poor is allocated very
+little resources, then it is almost certain
+that some deserving households would be
+excluded 9 .
+Misallocation to districts with less poor:
+The UBI, by design, should effectively tackle
+issues related to misallocation. As envisaged
+in this chapter, a UBI will simply amount
+to a transfer of resources from above 15 and
+need not be “accessed” by beneficiaries 16 .
+The simplicity of the process cannot be
+overstated: beneficiaries are simply required
+to withdraw money from their accounts
+as and when they please, without having
+to jump through bureaucratic hoops. The
+simplicity of the process also implies that the
+success of a UBI hinges much less on local
+bureaucratic ability than do other schemes.
+9.26 Exclusion error: Given the link between
+misallocation and exclusion errors, a UBI
+that improves allocation of resources should
+mechanically bring down exclusion error.
+Furthermore, by virtue of being universal,
+exclusion errors under the UBI should be
+lower than existing targeted schemes (for
+reasons listed previously – see Box 1) 18 .
+Poor households (in fact even many
+of those above poverty) are often faced with
+idiosyncratic shocks such as bad health and
+job loss, and covariate or aggregate shocks
+such as natural disasters and political risk.
+Jha, Nagarajan and Pradhan (2012) show
+that slightly more than 50 percent of rural
+households across India face one or more
+forms of shock, with the most prominent
+being aggregate shocks (crop loss, water
+borne diseases, loss of property, cyclones,
+drought, etc.). In their data, about 60 percent
+of individuals use personal savings to cope
+with these shocks. Government assistance
+comes a distant second with only close to
+10 percent of individuals accessing it. The
+third most prominent option, at 6 percent,
+is borrowing from friends.
+The World Development
+Report (2015) argues that individuals living
+in poverty have (a) a preoccupation with
+daily hassles and this results in a depletion of
+cognitive resources required for important
+decisions; (b) low self-image that tends to
+blunt aspirations; (c) norms that may require
+investments in social capital to the detriment
+of private opportunities.
+Mani and others (2013) showed that pre-
+harvest cash-strapped sugarcane farmers in
+Tamil Nadu performed worse in a series of
+cognitive tests (including 10 points lower on
+an IQ test) than they did after harvest, when
+they were likely to have very little loans and
+were cash-rich
+Improved Fnancial Inclusion
+Increasingly, banks have been making use of
+BCs to provide last mile access to banking.
+A Taskforce on an Aadhaar-Enabled Unified
+Payment Infrastructure recommended
+increasing commissions to BCs in order
+to make them profitable. This profitability
+is highly dependent on the volume of
+transactions per BC, and one can model
+scenarios where a UBI can lead to increased
+financial inclusion through an increased
+number of transactions. A very plausible
+hypothesis is that as a UBI is provided to
+individuals, there will be an endogenous
+increase in the volume of transactions and
+revenue from government transfers along
+with a corresponding decrease in per unit
+fixed costs, thereby increasing the profitability
+of BCs and expanding their coverage.
+onstraints in the form of a higher
+income. Using recently released data for
+farmers from the Debt and Investment
+Survey (2013), it is evident that as one
+moves along the consumption spectrum, the
+proportion of farmers taking informal loans
+falls and formal loans take over (Figure 6).
+While the trend in proportion of farmers
+as well as average loan sizes is smooth
+across percentiles, the trend in median loan
+amounts shows a discontinuity at the 78th
+percentile – from median loans being zero till
+this level, there is sudden increase in median
+amounts for formal loans(Figure 7). Such
+a discontinuity implies that if everybody’s
+consumptions could be increased to this
+level, there might be significant jump in
+access to formal credit.
+Detractors of UBI argue that, as a cash
+transfer programme, this policy will promote
+conspicuous spending or spending on social
+evils such as alcohol, tobacco.
+The main finding
+is that these goods form a smaller share
+of overall budget/consumption as overall
+consumption increases (Figure 9).
+nner in reality.
+9.42 Banerjee, Hanna, Kreindler and
+Olken (2015) conduct a meta-analysis of 7
+randomized controlled trials of government
+cash transfer programs in 6 developing
+countries (Honduras, Morocco, Mexico,
+Philippines, Indonesia and Nicaragua).
+Appendix 4 provides a summary of these
+studies from the paper. Most of these are
+conditional cash transfer type of programs
+and form between 4 percent (Honduras)
+and 20 percent (Morocco) of household
+consumption. They find no significant
+reduction in labour supply (inside and outside
+the household) for men or women from the
+provision of cash transfers.
+Appendix 3 provides evidence on a similar non-impact
+of UBI onlabour supply from a modified
+randomized control trial conducted in a few
+villages in Madhya Pradesh, India.
+
